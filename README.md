@@ -18,7 +18,7 @@ Página estática para divulgação e compra do livro "A ERA ARTIFICIAL" de Dieg
 * Este Projeto é licenciado sob a Licença MIT
 
 ## Autor
-* **Eduardo Santos**
+**Eduardo Santos**
   * Linkedin: https://www.linkedin.com/in/eduardo-r-l-santos
   * Github: https://github.com/Dudu-Santos/
   * E-mail: eduardorlsantos@gmail.com
