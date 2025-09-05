@@ -11,7 +11,7 @@ CSS
 
 ## Como Executar
 Crie uma pasta em seu computador
-Baixe os arruivos na pasta criada
+Baixe os arquivos na pasta criada
 Execute o arquivo index.html
 
 ## Licença
