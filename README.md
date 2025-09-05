@@ -1,5 +1,5 @@
 # Projeto A-Era-Artificial
-Página criada para divulgação e compra do livro "A ERA ARTIFICIAL" de Diego Souza 
+Página estática para divulgação e compra do livro "A ERA ARTIFICIAL" de Diego Souza 
 
 ## Funcionalidades
 * Botão COMPRAR : abre nova janela para aquisição do livro no site da AMAZON
@@ -18,7 +18,7 @@ Página criada para divulgação e compra do livro "A ERA ARTIFICIAL" de Diego S
 * Este Projeto é licenciado sob a Licença MIT
 
 ## Autor
-* **Eduardo R. L. dos Santos**
+* **Eduardo Santos**
   * Linkedin: https://www.linkedin.com/in/eduardo-r-l-santos
   * Github: https://github.com/Dudu-Santos/
   * E-mail: eduardorlsantos@gmail.com
